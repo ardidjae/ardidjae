@@ -75,53 +75,6 @@ const developer = {
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ardidjae&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardidjae&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardidjae&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500"/>
-</div>
-
----
-
-## 💭 Citation du Jour
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ardidjae&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ardidjae)
-
-</div>
-
----
-
-## 📫 Me Contacter
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardidjae)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]((https://ardelaide.fr))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ardela%C3%AFde-djae-1b37402b2/))
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Le code propre commence par un esprit organisé"*
